@@ -1,7 +1,4 @@
 # Cricket_analysis_snowflake
-
-Real Cricket Analytics Project
-
 Description:
 A comprehensive data engineering project focused on cricket analytics, utilizing Snowflake for data transformation and analysis. This project involved the end-to-end process of handling raw match data and deriving valuable insights. It showcases the following features:
 
